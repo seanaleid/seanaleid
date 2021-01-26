@@ -16,7 +16,7 @@ Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com), a softwar
 
 - ⚛️ I’m CTO for [Nuclius LLC](https://www.nuclius.com).
 - 📚 I’m currently studying AWS.
-- ✉️ Reach me at: [seanaleid@gmail.com](mailto:seanaleid@gmail.com).
+- ✉️ Reach me at: [sean@nuclius.com](mailto:sean@nuclius.com).
 
 **Languages and Tools:**  
 
