@@ -10,7 +10,7 @@
 
 <br />
 
-Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com), a software engineer 👨‍💻 , project manager 📋 , and designer 🎨.
+Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com){:target="_blank" rel="noopener"}, a software engineer 👨‍💻 , project manager 📋 , and designer 🎨.
   
 **A little bit about me:**
 
