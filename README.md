@@ -6,8 +6,6 @@
   <img align="left" alt="Sean's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=seanaleid.visitor-badge)
-
 <br />
 
 Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com), a software engineer 👨‍💻 , project manager 📋 , and designer 🎨.
