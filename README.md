@@ -8,12 +8,12 @@
 
 <br />
 
-Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com), a software engineer 👨‍💻 , project manager 📋 , and designer 🎨.
+Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
   
 **A little bit about me:**
 
 - ⚛️ I’m CTO for [Nuclius LLC](https://www.nuclius.com).
-- 📚 I’m currently studying AWS.
+- 📚 I’m currently studying [Project Management](https://www.coursera.org/learn/agile-project-management/home/welcome) and [CSS for JS devs](https://courses.joshwcomeau.com/css-for-js).
 - ✉️ Reach me at: [sean@nuclius.com](mailto:sean@nuclius.com).
 
 **Languages and Tools:**  
