@@ -13,7 +13,7 @@ Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
 **A little bit about me:**
 
 - ⚛️ I’m CTO for [Nuclius LLC](https://www.nuclius.com).
-- 📚 I’m currently studying [CSS for JS devs](https://courses.joshwcomeau.com/css-for-js).
+- 📚 I’m currently studying [CSS for JS devs](https://courses.joshwcomeau.com/css-for-js) and [Unity](https://learn.unity.com/).
 - ✉️ Reach me at: [sean@nuclius.com](mailto:sean@nuclius.com).
 
 **Languages and Tools:**  
