@@ -12,7 +12,7 @@ Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
   
 **A little bit about me:**
 
-- ⚛️ I’m CTO for [Nuclius LLC](https://www.nuclius.com).
+- ⚛️ I’m a Team Lead for [Kitestring](https://www.kitestring.com/).
 - 📚 I’m currently studying [Business Administration](https://www.eae.es/en/full-time/mba/presentation), [CSS for JS devs](https://courses.joshwcomeau.com/css-for-js), and [Unity](https://learn.unity.com/).
 - ✉️ Reach me at: [sean@nuclius.com](mailto:sean@nuclius.com).
 
