@@ -20,11 +20,11 @@ Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/javascript/F7DF1E/F7DF1E"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/react/61DAFB/61DAFB"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/nodejs/339933/339933"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/python/3776AB/3776AB"></code>
+<code><img height="20" src="https://cdn.simpleicons.org/git/F05032/F05032"></code>
 
 📊 My GitHub Stats
 
