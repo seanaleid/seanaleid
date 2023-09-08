@@ -6,10 +6,6 @@
   <img align="left" alt="Sean's LinkedIn" width="22px" src="https://cdn.simpleicons.org/LinkedIn/000/fff"/>
 </a>
 
-<!--- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" --> 
-
-<br />
-<br />
 <br />
 
 Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
