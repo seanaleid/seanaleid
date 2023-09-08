@@ -18,7 +18,7 @@ Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
 
 - ⚛️ I’m a Durable Team Lead for [Kitestring](https://www.kitestring.com/).
 - 📚 I’m currently studying [Business Administration](https://www.eae.es/en/full-time/mba/presentation), [CSS for JS devs](https://courses.joshwcomeau.com/css-for-js), and [Unity](https://learn.unity.com/).
-- ✉️ Reach me at: [sean@nuclius.com](mailto:sean.naleid@kitestring.com).
+- ✉️ Reach me at: [sean.naleid@kitestring.com](mailto:sean.naleid@kitestring.com).
 
 **Languages and Tools:**  
 
