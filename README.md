@@ -3,8 +3,10 @@
   <img align="left" alt="Sean Naleid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/sean-naleid-vargas/">
-  <img align="left" alt="Sean's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sean's LinkedIn" width="22px" src="https://cdn.simpleicons.org/simpleicons/00ccff"/>
 </a>
+
+<!--- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" --> 
 
 <br />
 
