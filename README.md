@@ -1,9 +1,9 @@
 ### Hi everyone <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://twitter.com/SeanNaleid">
-  <img align="left" alt="Sean Naleid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sean Naleid | Twitter" width="22px" src="https://cdn.simpleicons.org/x/000/fff" />
 </a>
 <a href="https://www.linkedin.com/in/sean-naleid-vargas/">
-  <img align="left" alt="Sean's LinkedIn" width="22px" src="https://cdn.simpleicons.org/LinkedIn/fff"/>
+  <img align="left" alt="Sean's LinkedIn" width="22px" src="https://cdn.simpleicons.org/LinkedIn/000/fff"/>
 </a>
 
 <!--- https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" --> 
