@@ -2,7 +2,7 @@
 <a href="https://twitter.com/SeanNaleid">
   <img align="left" alt="Sean Naleid | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sean-naleid/">
+<a href="https://www.linkedin.com/in/sean-naleid-vargas/">
   <img align="left" alt="Sean's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -12,9 +12,9 @@ Nice to meet you. My name is [Sean Naleid](https://www.seanaleid.com).
   
 **A little bit about me:**
 
-- ⚛️ I’m a Team Lead for [Kitestring](https://www.kitestring.com/).
+- ⚛️ I’m a Durable Team Lead for [Kitestring](https://www.kitestring.com/).
 - 📚 I’m currently studying [Business Administration](https://www.eae.es/en/full-time/mba/presentation), [CSS for JS devs](https://courses.joshwcomeau.com/css-for-js), and [Unity](https://learn.unity.com/).
-- ✉️ Reach me at: [sean@nuclius.com](mailto:sean@nuclius.com).
+- ✉️ Reach me at: [sean@nuclius.com](mailto:sean.naleid@kitestring.com).
 
 **Languages and Tools:**  
 
